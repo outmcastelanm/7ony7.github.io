@@ -1,7 +1,7 @@
 [{
   "relation": ["delegate_permission/common.handle_all_urls"],
   "target": {
-    "namespace": "android_app",
+    "namespace": "android_app2",
     "package_name": "com.fisa.app.clients.ext",
     "sha256_cert_fingerprints":
     ["51:B4:1A:85:01:89:7A:49:D1:F9:2F:65:70:3D:AD:C8:70:2F:F5:65:92:D5:68:4F:58:65:A4:A9:88:0C:C4:AD"]
